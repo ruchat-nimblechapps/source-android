@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/myst_view_header_bar_width"
+    android:layout_alignParentTop="true"
+    android:background="@color/myst_background_green">
+
+    <RelativeLayout
+        android:id="@+id/myst_group_about"
+        android:layout_width="@dimen/myst_view_header_bar_width"
+        android:layout_height="@dimen/myst_view_header_bar_width"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/myst_icon_menu"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/myst_group_duration"
+        android:layout_width="@dimen/myst_view_header_bar_width"
+        android:layout_height="@dimen/myst_view_header_bar_width"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/myst_group_about">
+
+        <ImageView
+            android:id="@+id/myst_image_view_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/myst_icon_duration_disabled"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/myst_group_frequency"
+        android:layout_width="@dimen/myst_view_header_bar_width"
+        android:layout_height="@dimen/myst_view_header_bar_width"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/myst_group_duration">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/myst_icon_delay"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/myst_group_device"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/myst_group_frequency"
+        android:layout_marginRight="@dimen/myst_group_device_margin"
+        android:background="@drawable/myst_background_no_device_selected">
+
+        <TextView
+            android:id="@+id/myst_text_view_device"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:padding ="@dimen/myst_view_device_padding"
+            android:textColor="@color/myst_text_white"
+            android:text="@string/myst_label_connect"/>
+
+    </LinearLayout>
+</RelativeLayout>

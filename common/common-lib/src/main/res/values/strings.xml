@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xd_common_title_pick_image">@string/xdc_pick_an_image</string>
+</resources>

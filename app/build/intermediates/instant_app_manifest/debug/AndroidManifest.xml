@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mystrica"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- permissions -->
+    <application
+        android:name="com.xdesign.android.mystrica.Mystrica"
+        android:allowBackup="false"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/myst_ic_launcher"
+        android:label="@string/xd_app_name"
+        android:testOnly="true"
+        android:theme="@style/XD.Theme.App" >
+
+        <!-- activities -->
+
+        <activity
+            android:name="com.xdesign.android.mystrica.activities.MainActivity"
+            android:launchMode="singleInstance"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- services -->
+
+        <service
+            android:name="com.xdesign.android.mystrica.services.BluetoothCommunicatorService"
+            android:exported="false" />
+        <service
+            android:name="com.xdesign.android.mystrica.services.TestCommunicatorService"
+            android:exported="false" />
+
+        <!-- receivers -->
+
+
+        <!-- providers -->
+
+
+        <!-- meta data -->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="4de598b50406dd8a639a4b1645ade078a12b8e7c" />
+    </application>
+
+</manifest>

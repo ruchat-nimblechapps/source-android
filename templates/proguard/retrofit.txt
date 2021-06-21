@@ -1,0 +1,6 @@
+-dontwarn retrofit.**
+-keep class retrofit.** { *; }
+-keepclassmembernames interface * {
+    @retrofit.http.* <methods>;
+}
+-keepattributes Exceptions,Signature

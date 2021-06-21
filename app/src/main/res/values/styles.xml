@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- app themes -->
+    <style name="XD.Theme.App" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <!-- text styles -->
+
+    <!-- view styles -->
+
+</resources>

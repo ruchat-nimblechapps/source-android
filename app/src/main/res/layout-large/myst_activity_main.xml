@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/myst_view_action_bar"
+        android:id="@+id/myst_view_header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <fragment class="com.xdesign.android.mystrica.fragments.TableFragment"
+                android:id="@+id/myst_fragment_table"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_above="@+id/myst_view_control"
+                tools:layout="@layout/myst_fragment_table" />
+
+            <com.xdesign.android.mystrica.views.ControlView
+                android:id="@+id/myst_view_control"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"/>
+
+        </RelativeLayout>
+
+        <fragment class="com.xdesign.android.mystrica.fragments.GraphFragment"
+            android:id="@+id/myst_fragment_graph"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.6"
+            android:layout_marginBottom="@dimen/myst_graph_fragment_margin"
+            tools:layout="@layout/myst_fragment_graph" />
+
+    </LinearLayout>
+
+</LinearLayout>

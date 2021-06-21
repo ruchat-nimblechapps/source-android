@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="xd_common_alertDialogBackground" format="reference|color" />
+    <attr name="xd_common_alertDialogContentStyle" format="reference" />
+    <attr name="xd_common_alertDialogButtonStyle" format="reference" />
+    
+    <attr name="xd_common_geocoderHelperAddressLineDelimiter" format="reference|string" />
+    <attr name="xd_common_geocoderHelperAddressError" format="reference|string" />
+
+    <declare-styleable name="LoadingStateButton">
+        <attr name="xd_common_loadingText" format="reference|string"/>
+        <attr name="xd_common_hideOnKeyboard" format="reference|boolean"/>
+    </declare-styleable>
+</resources>

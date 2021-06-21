@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/myst_edit_text_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/myst_view_dialog_edit_text_margin"
+        android:layout_marginRight="@dimen/myst_view_dialog_edit_text_margin"
+        android:maxLength="@integer/myst_device_name_length_limit"/>
+
+    <EditText
+        android:id="@+id/myst_edit_text_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/myst_view_dialog_edit_text_small_margin"
+        android:layout_marginLeft="@dimen/myst_view_dialog_edit_text_margin"
+        android:layout_marginRight="@dimen/myst_view_dialog_edit_text_margin"
+        android:inputType="textPassword"
+        android:hint="@string/myst_dialog_hint_password_rename_device"/>
+
+</LinearLayout>

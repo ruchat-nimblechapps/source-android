@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_background_no_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_background_no_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_xd_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-xxhdpi/xd_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_button_pause.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_button_pause.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_duartion_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_duartion_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_activity_main.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_activity_main.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_duration_picker.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_duration_picker.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_button_rec_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_button_rec_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-mdpi_xd_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-mdpi/xd_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_device_list_item.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_device_list_item.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_menu.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_menu.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_delay.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_delay.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_duartion_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_duartion_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_button_rec_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_button_rec_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_button_rec_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_button_rec_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_duration.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_duration.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_button_rec.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_button_rec.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_myst_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-xhdpi/myst_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_fragment_table.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_fragment_table.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_button_capture.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_button_capture.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_edit.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_edit.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_file_list_item.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_file_list_item.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_edit.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_edit.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_fragment_graph.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_fragment_graph.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_button_rec_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_button_rec_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_rename_device.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_rename_device.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-mdpi_myst_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-mdpi/myst_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_email.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_email.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_button_pause.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_button_pause.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_button_capture_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_button_capture_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_xd_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-xxxhdpi/xd_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_button_capture.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_button_capture.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_delay.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_delay.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_duration.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_duration.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_button_rec.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_button_rec.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_menu.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_menu.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_delete.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_delete.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_background_no_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_background_no_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_background_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_background_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_email.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_email.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_button_rec.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_button_rec.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_edit.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_edit.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_background_no_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_background_no_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_rename_file.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_rename_file.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_button_capture.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_button_capture.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_button_capture_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_button_capture_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_delete.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_delete.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_button_rec.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_button_rec.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_log_row.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_log_row.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_duration.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_duration.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_delete.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_delete.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_icon_menu.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_icon_menu.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-hdpi_myst_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-hdpi/myst_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_delay.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_delay.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_button_pause.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_button_pause.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_background_no_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_background_no_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_xd_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-xhdpi/xd_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_background_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_background_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout-large_myst_activity_main.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout-large/myst_activity_main.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-hdpi_xd_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-hdpi/xd_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_button_capture_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_button_capture_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_button_pause.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_button_pause.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_about.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_about.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_myst_background_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xxhdpi/myst_background_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_email.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_email.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-mdpi_myst_icon_delay.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-mdpi/myst_icon_delay.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_duration.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_duration.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_duration_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_duration_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_menu.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_menu.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_control.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_control.xml"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_button_capture.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_button_capture.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-xhdpi_myst_icon_edit.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-xhdpi/myst_icon_edit.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_background_device_selected.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_background_device_selected.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_delete.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_delete.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_myst_ic_launcher.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/mipmap-xxhdpi/myst_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_icon_email.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_icon_email.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/drawable-hdpi_myst_button_capture_disabled.png.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/drawable-hdpi/myst_button_capture_disabled.png"
+    },
+    {
+        "merged": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/build/intermediates/res/merged/debug/layout_myst_view_action_bar.xml.flat",
+        "source": "/Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/res/layout/myst_view_action_bar.xml"
+    }
+]

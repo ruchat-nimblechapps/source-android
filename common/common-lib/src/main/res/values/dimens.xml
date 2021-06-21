@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xd_common_view_padding_medium_horizontal">16dp</dimen>
+    <dimen name="xd_common_view_padding_medium_vertical">16dp</dimen>
+</resources>

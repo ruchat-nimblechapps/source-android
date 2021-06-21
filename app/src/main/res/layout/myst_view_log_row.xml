@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/myst_background_white">
+
+    <LinearLayout
+        android:id="@+id/myst_view_background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/myst_text_view_column_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dip"
+                android:textColor="@color/myst_text_grey"
+                android:text="@string/myst_label_time"/>
+
+            <TextView
+                android:id="@+id/myst_text_view_column_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dip"
+                android:textColor="@color/myst_text_grey"
+                android:text="@string/myst_label_transmittance"/>
+
+            <TextView
+                android:id="@+id/myst_text_view_column_three"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dip"
+                android:textColor="@color/myst_text_grey"
+                android:text="@string/myst_label_absorbance"/>
+
+            <TextView
+                android:id="@+id/myst_text_view_column_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dip"
+                android:textColor="@color/myst_text_grey"
+                android:text="@string/myst_label_note"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/myst_layout_selection"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="invisible">
+
+        <View
+            android:id="@+id/myst_view_left_bar"
+            android:layout_width="3dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:background="@color/myst_light_purple"/>
+
+        <View
+            android:id="@+id/myst_view_left_top_bar"
+            android:layout_width="3dp"
+            android:layout_height="3dp"
+            android:layout_alignTop="@+id/myst_view_left_bar"
+            android:layout_toRightOf="@+id/myst_view_left_bar"
+            android:background="@color/myst_light_purple"/>
+
+        <View
+            android:id="@+id/myst_view_left_bottom_bar"
+            android:layout_width="3dp"
+            android:layout_height="3dp"
+            android:layout_alignBottom="@+id/myst_view_left_bar"
+            android:layout_toRightOf="@+id/myst_view_left_bar"
+            android:background="@color/myst_light_purple"/>
+
+        <View
+            android:id="@+id/myst_view_right_bar"
+            android:layout_width="3dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:background="@color/myst_light_purple"/>
+
+        <View
+            android:id="@+id/myst_view_right_top_bar"
+            android:layout_width="3dp"
+            android:layout_height="3dp"
+            android:layout_alignTop="@+id/myst_view_right_bar"
+            android:layout_toLeftOf="@+id/myst_view_right_bar"
+            android:background="@color/myst_light_purple"/>
+
+        <View
+            android:id="@+id/myst_view_right_bottom_bar"
+            android:layout_width="3dp"
+            android:layout_height="3dp"
+            android:layout_alignBottom="@+id/myst_view_right_bar"
+            android:layout_toLeftOf="@+id/myst_view_right_bar"
+            android:background="@color/myst_light_purple"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

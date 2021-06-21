@@ -1,0 +1,34 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xdesign.android.common.harness">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:name=".App"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:label="Common Harness"
+        android:icon="@android:drawable/sym_def_app_icon">
+
+        <activity
+            android:name=".activities.TestActivity"
+            android:theme="@style/App.Theme"/>
+
+        <activity
+            android:name=".activities.TestBaseActivity"
+            android:theme="@style/App.Theme"/>
+
+        <activity
+            android:name=".activities.TestBaseActivityWithDelegation"
+            android:theme="@style/App.Theme"/>
+
+        <activity
+            android:name=".activities.TestBaseFragmentHolderActivity"
+            android:theme="@style/App.Theme"/>
+
+        <activity
+            android:name=".activities.ViewTestingActivity"
+            android:theme="@style/App.Theme"/>
+    </application>
+</manifest>

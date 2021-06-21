@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include layout="@layout/myst_view_action_bar"
+        android:id="@+id/myst_view_header" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/myst_view_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/myst_view_header"
+        app:tabBackground="@color/myst_background_green"
+        app:tabIndicatorColor="@color/myst_yellow"
+        app:tabTextColor="@color/myst_white_50"
+        app:tabSelectedTextColor="@color/myst_white"
+        app:tabIndicatorHeight="@dimen/myst_view_tab_indicator_height"/>
+
+    <com.xdesign.android.mystrica.views.NonSwipeableViewPager
+        android:id="@+id/myst_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/myst_view_tabs"
+        android:layout_above="@+id/myst_view_control"/>
+
+    <com.xdesign.android.mystrica.views.ControlView
+        android:id="@+id/myst_view_control"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

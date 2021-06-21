@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/ed0aaaed8030d47d120d74c4a34ba0a1/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/23a22a7928cdbd0d215eed2b58be1a77/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5ab1ebf89125972bde56722220faa7fe/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [:common] /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/common/common-lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/cb04342f9566e9b1168b5cdf83e47e96/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/344fc9a89f92ea78151ca3fb0b8db2c8/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/67f2720eb0fced2ab31fef9039083d8d/jetified-butterknife-10.2.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1fd46053625ca325758dc0f90cfb6354/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/0d46d907e39f873f4b284b33d552c2bc/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b6ce2529e8e50deb0d96454f03cc246f/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/bc574a89a5daec4c326bcd81c79fd93e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/47fa38cb31cc87c83044553d1190ed56/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a6742a73d06a5281fa29a5846ef0d141/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2f63913ef9cbc78b0d58eb91ef93a2f9/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/e15784d428aa12a85bf3e925b704735e/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1544bc524b7ff19245144413720403a6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a0f33f19017d385de6abf1c8c82c949f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/70e078d12263068b66cfa6b035cd8336/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a1cfad0a1cf861b24e5f6734343eb5fe/jetified-butterknife-runtime-10.2.3/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sarita/.gradle/caches/transforms-2/files-2.1/ef558f8bb24b013fb62690abe1652eb9/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b4698d136a6e1d94e0f19bbc6d812247/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2730a040d342eb4d1fdb712a36d539b9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/14b243d220feecefc945dd1348a22079/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6205b1e74195ef4470d9b5d42824bde3/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1ae8fc53cda783621a6e3b64d3f57fb0/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/aa2faab9bc75702b4e9d0a757ec2d53d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3748ca64bfa74b3ad22e02af96281e58/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/25ea4238e1c3e3ff8e88175ae3b90456/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6a26c3594f4b17de3ef9b0aa84e671d3/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/968bb9a757709ea9db9420dbd33290e8/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/55449e43dc2cb88a973c034ae6a4c897/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a11d5a9a4fa065a323ee7b2f687d5a64/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5c320441e79a68a6ffb0cdb277f05791/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3fe1e23a9b638f416d560e595f978238/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2f017944231460aa8881ab8bcdae11a7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/cdb591b1e543ebf5ff786ecd5f81213c/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/91bccb09609c288c0bae67f5430ca202/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3c45b60b36daa65ff91a9ed683c36cb2/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6088f46c935d92747ab10d9d81ce5d59/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/f2fb60b6d2830978e50bcec61b25cae1/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/8e26ec5675f9c813f168a9ae7ebae92b/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/dc8aa15b8fde9f7ee3c7143ccd5d312e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b060e9b47592ad72f235d87be291abc0/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1d245159a7e3da6a1986dfa118cb0979/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/fc763966e4107854abd88d4869fa80de/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+	package
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:1:1-60:12
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:2:5-63
+application
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:7:5-46:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/23a22a7928cdbd0d215eed2b58be1a77/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/23a22a7928cdbd0d215eed2b58be1a77/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5ab1ebf89125972bde56722220faa7fe/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5ab1ebf89125972bde56722220faa7fe/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/968bb9a757709ea9db9420dbd33290e8/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/968bb9a757709ea9db9420dbd33290e8/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/55449e43dc2cb88a973c034ae6a4c897/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/55449e43dc2cb88a973c034ae6a4c897/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/968bb9a757709ea9db9420dbd33290e8/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:12:9-44
+	android:fullBackupContent
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:10:9-42
+	android:icon
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:11:9-48
+	android:allowBackup
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:8:9-33
+activity#com.xdesign.android.mystrica.activities.MainActivity
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:launchMode
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:20:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:18:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:24:27-74
+service#com.xdesign.android.mystrica.services.BluetoothCommunicatorService
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:30:9-32:39
+	android:exported
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:31:13-66
+service#com.xdesign.android.mystrica.services.TestCommunicatorService
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:34:9-36:39
+	android:exported
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:35:13-61
+meta-data#io.fabric.ApiKey
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:43:9-45:72
+	android:value
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:44:13-44
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:48:5-68
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:48:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:49:5-74
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:49:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:50:5-81
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:50:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:51:5-81
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:51:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:52:5-79
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:52:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:55:5-57:35
+	android:required
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:57:9-32
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:56:9-53
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:59:5-67
+	android:name
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml:59:22-64
+uses-sdk
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/ed0aaaed8030d47d120d74c4a34ba0a1/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/ed0aaaed8030d47d120d74c4a34ba0a1/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/23a22a7928cdbd0d215eed2b58be1a77/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/23a22a7928cdbd0d215eed2b58be1a77/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5ab1ebf89125972bde56722220faa7fe/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5ab1ebf89125972bde56722220faa7fe/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [:common] /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/common/common-lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:common] /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/common/common-lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/cb04342f9566e9b1168b5cdf83e47e96/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/cb04342f9566e9b1168b5cdf83e47e96/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/344fc9a89f92ea78151ca3fb0b8db2c8/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/344fc9a89f92ea78151ca3fb0b8db2c8/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/67f2720eb0fced2ab31fef9039083d8d/jetified-butterknife-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/67f2720eb0fced2ab31fef9039083d8d/jetified-butterknife-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1fd46053625ca325758dc0f90cfb6354/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1fd46053625ca325758dc0f90cfb6354/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/0d46d907e39f873f4b284b33d552c2bc/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/0d46d907e39f873f4b284b33d552c2bc/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b6ce2529e8e50deb0d96454f03cc246f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b6ce2529e8e50deb0d96454f03cc246f/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/bc574a89a5daec4c326bcd81c79fd93e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/bc574a89a5daec4c326bcd81c79fd93e/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/47fa38cb31cc87c83044553d1190ed56/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/47fa38cb31cc87c83044553d1190ed56/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a6742a73d06a5281fa29a5846ef0d141/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a6742a73d06a5281fa29a5846ef0d141/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2f63913ef9cbc78b0d58eb91ef93a2f9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2f63913ef9cbc78b0d58eb91ef93a2f9/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/e15784d428aa12a85bf3e925b704735e/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/e15784d428aa12a85bf3e925b704735e/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1544bc524b7ff19245144413720403a6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1544bc524b7ff19245144413720403a6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a0f33f19017d385de6abf1c8c82c949f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a0f33f19017d385de6abf1c8c82c949f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/70e078d12263068b66cfa6b035cd8336/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/70e078d12263068b66cfa6b035cd8336/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a1cfad0a1cf861b24e5f6734343eb5fe/jetified-butterknife-runtime-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a1cfad0a1cf861b24e5f6734343eb5fe/jetified-butterknife-runtime-10.2.3/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sarita/.gradle/caches/transforms-2/files-2.1/ef558f8bb24b013fb62690abe1652eb9/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/sarita/.gradle/caches/transforms-2/files-2.1/ef558f8bb24b013fb62690abe1652eb9/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b4698d136a6e1d94e0f19bbc6d812247/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b4698d136a6e1d94e0f19bbc6d812247/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2730a040d342eb4d1fdb712a36d539b9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2730a040d342eb4d1fdb712a36d539b9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/14b243d220feecefc945dd1348a22079/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/14b243d220feecefc945dd1348a22079/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6205b1e74195ef4470d9b5d42824bde3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6205b1e74195ef4470d9b5d42824bde3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1ae8fc53cda783621a6e3b64d3f57fb0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1ae8fc53cda783621a6e3b64d3f57fb0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/aa2faab9bc75702b4e9d0a757ec2d53d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/aa2faab9bc75702b4e9d0a757ec2d53d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3748ca64bfa74b3ad22e02af96281e58/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3748ca64bfa74b3ad22e02af96281e58/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/25ea4238e1c3e3ff8e88175ae3b90456/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/25ea4238e1c3e3ff8e88175ae3b90456/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6a26c3594f4b17de3ef9b0aa84e671d3/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6a26c3594f4b17de3ef9b0aa84e671d3/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/968bb9a757709ea9db9420dbd33290e8/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/968bb9a757709ea9db9420dbd33290e8/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/55449e43dc2cb88a973c034ae6a4c897/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/55449e43dc2cb88a973c034ae6a4c897/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a11d5a9a4fa065a323ee7b2f687d5a64/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/a11d5a9a4fa065a323ee7b2f687d5a64/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5c320441e79a68a6ffb0cdb277f05791/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/5c320441e79a68a6ffb0cdb277f05791/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3fe1e23a9b638f416d560e595f978238/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3fe1e23a9b638f416d560e595f978238/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2f017944231460aa8881ab8bcdae11a7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/2f017944231460aa8881ab8bcdae11a7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/cdb591b1e543ebf5ff786ecd5f81213c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/cdb591b1e543ebf5ff786ecd5f81213c/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/91bccb09609c288c0bae67f5430ca202/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/91bccb09609c288c0bae67f5430ca202/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3c45b60b36daa65ff91a9ed683c36cb2/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/3c45b60b36daa65ff91a9ed683c36cb2/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6088f46c935d92747ab10d9d81ce5d59/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/6088f46c935d92747ab10d9d81ce5d59/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/f2fb60b6d2830978e50bcec61b25cae1/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/f2fb60b6d2830978e50bcec61b25cae1/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/8e26ec5675f9c813f168a9ae7ebae92b/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/8e26ec5675f9c813f168a9ae7ebae92b/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/dc8aa15b8fde9f7ee3c7143ccd5d312e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/dc8aa15b8fde9f7ee3c7143ccd5d312e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b060e9b47592ad72f235d87be291abc0/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/sarita/.gradle/caches/transforms-2/files-2.1/b060e9b47592ad72f235d87be291abc0/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1d245159a7e3da6a1986dfa118cb0979/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/1d245159a7e3da6a1986dfa118cb0979/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/fc763966e4107854abd88d4869fa80de/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/sarita/.gradle/caches/transforms-2/files-2.1/fc763966e4107854abd88d4869fa80de/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarita/Documents/workspace/Mystrica_ZUDU/source-android/app/src/main/AndroidManifest.xml

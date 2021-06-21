@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/myst_view_about_margin"
+                android:src="@mipmap/myst_ic_launcher"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/xd_app_name"/>
+
+                <TextView
+                    android:id="@+id/myst_text_view_build"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:visibility="gone"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/myst_view_about_margin"
+            android:textStyle="bold"
+            android:text="@string/myst_label_open_source_libraries"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/myst_view_about_margin"
+            android:layout_marginRight="@dimen/myst_view_about_margin"
+            android:layout_marginBottom="@dimen/myst_view_about_margin"
+            android:text="@string/myst_label_open_source_libraries_blurb"/>
+
+        <TextView
+            android:id="@+id/myst_text_view_licences"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/myst_view_about_margin"
+            android:layout_marginRight="@dimen/myst_view_about_margin"/>
+    </LinearLayout>
+
+</ScrollView>

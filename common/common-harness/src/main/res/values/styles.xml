@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="App.Theme" parent="Base.Theme.AppCompat">
+        <item name="xd_common_alertDialogBackground">@android:color/white</item>
+        <item name="xd_common_alertDialogContentStyle">@style/App.AlertDialog.Content</item>
+        <item name="xd_common_alertDialogButtonStyle">@style/App.AlertDialog.Button</item>
+    </style>
+    
+    <style name="App.AlertDialog.Content" parent="App.Theme" />
+
+    <style name="App.AlertDialog.Button" parent="App.Theme" />
+</resources>

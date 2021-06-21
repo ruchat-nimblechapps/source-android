@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/xd_common_view_padding_medium_horizontal"
+    android:paddingRight="@dimen/xd_common_view_padding_medium_horizontal"
+    android:paddingTop="@dimen/xd_common_view_padding_medium_vertical"
+    android:paddingBottom="@dimen/xd_common_view_padding_medium_vertical"
+    android:background="?attr/xd_common_alertDialogBackground">
+
+    <FrameLayout
+        android:id="@+id/alert_dialog_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ViewStub
+            android:id="@+id/alert_dialog_content_stub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            style="?attr/xd_common_alertDialogContentStyle" />
+
+        <TextView
+            android:id="@+id/alert_dialog_content_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            style="?attr/xd_common_alertDialogContentStyle" />
+    </FrameLayout>
+    
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/alert_dialog_container"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/alert_dialog_negative_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            style="?attr/xd_common_alertDialogButtonStyle" />
+
+        <Button
+            android:id="@+id/alert_dialog_neutral_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            style="?attr/xd_common_alertDialogButtonStyle" />
+        
+        <Button
+            android:id="@+id/alert_dialog_positive_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            style="?attr/xd_common_alertDialogButtonStyle" />
+    </LinearLayout>
+</RelativeLayout>

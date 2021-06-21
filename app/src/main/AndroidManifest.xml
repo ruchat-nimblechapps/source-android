@@ -1,0 +1,60 @@
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xdesign.android.mystrica">
+
+    <!-- permissions -->
+
+    <application
+        android:name=".Mystrica"
+        android:allowBackup="false"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/myst_ic_launcher"
+        android:label="@string/xd_app_name"
+        android:theme="@style/XD.Theme.App">
+
+        <!-- activities -->
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:windowSoftInputMode="stateHidden"
+            android:launchMode="singleInstance">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- services -->
+
+        <service
+            android:name=".services.BluetoothCommunicatorService"
+            android:exported="false"/>
+
+        <service
+            android:name=".services.TestCommunicatorService"
+            android:exported="false"/>
+
+        <!-- receivers -->
+
+        <!-- providers -->
+
+        <!-- meta data -->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="4de598b50406dd8a639a4b1645ade078a12b8e7c" />
+    </application>
+
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+
+    <uses-feature
+        android:name="android.hardware.bluetooth_le"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>
